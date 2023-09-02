@@ -1,16 +1,16 @@
 <h1 align="center">Hi , I'm Ravindu Harshana👋</h1>
-                        
+<i><h3 align="center" style="color:red;">Happy Code Life🤓 </h3>
+</i>
+<br>                    
+                  
+                    
 🏫 I am a Undergraduate at Faculty of Technology, Universicy of Ruhuna <br>
 🏆 Wait for BICT <br>
-🧑‍💻Real world Problem solver <br>
 🤓 Always learning new things <br>
+🧑‍💻Real world Problem solver <br>
 
 
-
-
-
-
-<br><br><br>
+<br>
 
 ## 🛠️ I'm Interested
 
