@@ -98,7 +98,10 @@
 <p align="center">
   <a href="https://www.linkedin.com/in/ravindu-harshana/"><img src="https://skillicons.dev/icons?i=linkedin" /></a>
   <a href="mailto:ravinduharsha8@gmail.com"><img src="https://skillicons.dev/icons?i=gmail" /></a>
-  <a href="https://www.artstation.com/ravinduharshana"><img src="https://skillicons.dev/icons?i=artstation" />Design Portfolio</a>
+  <a href="https://www.hackerrank.com/profile/ravinduharshana3">
+    <img src="https://cdn.worldvectorlogo.com/logos/hackerrank.svg" width="48" title="HackerRank"/>
+  </a>
+  <a href="https://ravinduharshana.artstation.com/"><img src="https://skillicons.dev/icons?i=artstation" />Design Portfolio</a>
 </p>
 
 ---
